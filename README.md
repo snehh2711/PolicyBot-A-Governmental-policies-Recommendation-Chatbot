@@ -5,7 +5,14 @@ PolicyBot stands as a beacon of innovation in the digital governance landscape, 
 
 # Features
 
-- Natural Language Understanding: Uses NLP to understand and process user queries.
-- Personalized Recommendations: Provides recommendations based on user inputs like location, gender, and more.
-- Accessibility: Designed to be accessible to a broad audience, ensuring that all users can navigate through complex policy information.
-- Comprehensive Dashboard: Utilizes Tableau for creating dynamic and interactive dashboards to visualize policy data.
+- **Natural Language Understanding:** Uses NLP to understand and process user queries.
+- **Personalized Recommendations:** Provides recommendations based on user inputs like location, gender, and more.
+- **Accessibility:** Designed to be accessible to a broad audience, ensuring that all users can navigate through complex policy information.
+- **Comprehensive Dashboard:** Utilizes Tableau for creating dynamic and interactive dashboards to visualize policy data.
+
+# System Architecture
+
+**Backend:** Built with Python and Django, utilizing libraries like NLTK for NLP tasks and scikit-learn for machine learning.
+**Data Handling:** Uses Pandas for data manipulation and Beautiful Soup for web scraping governmental data.
+**Frontend:** Streamlined user interface designed with Google Dialogflow and Django, offering a seamless user interaction experience.
+**Database:** MySQL for robust data management and efficient query handling.
