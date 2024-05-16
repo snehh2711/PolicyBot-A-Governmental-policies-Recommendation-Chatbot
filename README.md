@@ -12,7 +12,7 @@ PolicyBot stands as a beacon of innovation in the digital governance landscape, 
 
 # System Architecture
 
-**Backend:** Built with Python and Django, utilizing libraries like NLTK for NLP tasks and scikit-learn for machine learning.
-**Data Handling:** Uses Pandas for data manipulation and Beautiful Soup for web scraping governmental data.
-**Frontend:** Streamlined user interface designed with Google Dialogflow and Django, offering a seamless user interaction experience.
-**Database:** MySQL for robust data management and efficient query handling.
+- **Backend:** Built with Python and Django, utilizing libraries like NLTK for NLP tasks and scikit-learn for machine learning.
+- **Data Handling:** Uses Pandas for data manipulation and Beautiful Soup for web scraping governmental data.
+- **Frontend:** Streamlined user interface designed with Google Dialogflow and Django, offering a seamless user interaction experience.
+- **Database:** MySQL for robust data management and efficient query handling.
