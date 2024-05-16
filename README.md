@@ -8,24 +8,24 @@ In the complex tapestry of Indian governance, navigating the intricate web of po
 
 PolicyBot stands as a beacon of innovation in the digital governance landscape, being the first of its kind to specifically address the complexity of governmental policies through advanced artificial intelligence. As the first of its kind, PolicyBot uses advanced AI to translate bureaucratic language into clear, actionable insights, providing personalized guidance tailored to individual needs. Available in multiple formats—text, and voice.PolicyBot ensures comprehensive accessibility, empowering a diverse range of citizens to engage actively with governance and claim their rightful benefits.
 
-# Features
+## Features
 
 - **Natural Language Understanding:** Uses NLP to understand and process user queries.
 - **Personalized Recommendations:** Provides recommendations based on user inputs like location, gender, and more.
 - **Accessibility:** Designed to be accessible to a broad audience, ensuring that all users can navigate through complex policy information.
 - **Comprehensive Dashboard:** Utilizes Tableau for creating dynamic and interactive dashboards to visualize policy data.
 
-# System Architecture
+## System Architecture
 
 - **Backend:** Built with Python and Django, utilizing libraries like NLTK for NLP tasks and scikit-learn for machine learning.
 - **Data Handling:** Uses Pandas for data manipulation and Beautiful Soup for web scraping governmental data.
 - **Frontend:** Streamlined user interface designed with Google Dialogflow and Django, offering a seamless user interaction experience.
 - **Database:** MySQL for robust data management and efficient query handling.
 
-# Home Page with Chatbot
+## Home Page with Chatbot
 ![image](https://github.com/snehh2711/PolicyBot-A-Governmental-policies-Recommendation-Chatbot/assets/124482094/9132794c-65a9-4d6c-9b79-f434df62d46e)
 
-# Project flow 
+## Project flow 
 
 The workflow of the PolicyBot, a governmental policies recommendation chatbot, involves several key steps that ensure it effectively provides personalized recommendations based on user queries. Here's a detailed breakdown of how the chatbot operates:
 
@@ -57,3 +57,9 @@ The workflow of the PolicyBot, a governmental policies recommendation chatbot, i
    - **Data Security**: Ensuring user data privacy and security is critical, especially when handling personal information. The chatbot implements robust security measures to protect user data and comply with relevant data protection regulations.
 
 This workflow demonstrates the chatbot's capability to act as an intelligent intermediary between complex governmental data and users, simplifying and personalizing the interaction to enhance understanding and accessibility of policy information.
+
+## Acknowledgements
+
+- Special thanks to Dr. Vyshali J Gogi for her invaluable guidance.
+- CHRIST (Deemed to be University) for providing the resources and environment to develop this project.
+- Our peers and professors in the Department of Data Science and Statistics for their support and feedback.
